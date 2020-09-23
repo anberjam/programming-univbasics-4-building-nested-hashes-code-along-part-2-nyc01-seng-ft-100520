@@ -24,9 +24,7 @@ def update_status
   # Code your solution here:
     epic_tragedy[:montague][:hero][status]="dead"
     epid_tragedy[:capulet][:heroine][status]="dead"
-  end
   return epic_tragedy
-end
 
 
 
