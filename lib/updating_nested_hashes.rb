@@ -25,6 +25,7 @@ def update_status
 def update_hash
   epic_tragedy[:montague][:hero][status]="dead"
   epid_tragedy[:capulet][:heroine][status]="dead"
+  return epic_tragedy
 end
 
 
